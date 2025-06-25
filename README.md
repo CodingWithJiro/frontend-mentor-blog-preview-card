@@ -21,7 +21,9 @@
 
 ## ℹ️ A Simple Blog Preview Card for Learning HTML and CSS
 
-![Site preview](./img/site-preview_1200x630.jpg)
+| _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
+| ------------------------------------------------ | --------------------------------------------------- |
+| ![Mobile](./img/site-preview-mobile_375x812.png) | ![Desktop](./img/site-preview-desktop_1440x960.png) |
 
 This blog preview card was built using HTML and CSS only, based on a Figma design file and style guide provided.
 
